@@ -34,4 +34,7 @@ master?  What benefits does each approach have?
     using branches can help to keep track of which changes that have already been reviewed and
     approved.
 
-    A master can be very helpful when wanting to change a huge part of the project and a branch can make small changes in a certain section.
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+If you make a mistake, need to fix something, or don't know if you want to upload a change just yet then choosing manual changes is best beacause you can always go back to a version that you chose to add. 
+
